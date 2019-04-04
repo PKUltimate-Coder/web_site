@@ -65,6 +65,7 @@ footer{
 }
 
 #main-header{
+	background-image: url("../images/_background.jpg");
 	padding:3px;
 }
 
