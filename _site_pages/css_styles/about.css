@@ -36,7 +36,7 @@
 }
 
 body {
-	background-image: url("../images/_background.jpg");
+	background-image: url("../images/_background.png");
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	font-family: 'Times New Roman', Times, serif;
@@ -62,26 +62,26 @@ footer{
 
 #main-header h1
 {
-	color: blue;
+	color: whitesmoke;
 	font-size: 36px;
 	font-family: 'Times New Roman', Times, serif;
 }
 
 #about 
 {
-	color: goldenrod;
-	padding: 20px;
+	color: #333;
+	padding: 24px;
 }
 
 #vision
 {
 	color : black;
-	padding: 20px;
+	padding: 24px;
 }
 
 #mission
 {
-	background-color: lightblue;
-	color : royalblue;
-	padding:20px;
+	
+	color : #333;
+	padding:24px;
 }
