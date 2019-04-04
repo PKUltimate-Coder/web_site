@@ -1,0 +1,108 @@
+#navBar li{
+	display: inline;
+	font-size: 16px;
+	font-family: Georgia, 'Times New Roman', Times, serif;
+	margin-right: 10px;
+	
+}
+
+#navBar ul{
+	text-align: left;
+}
+
+#navBar a{
+	text-decoration: none;
+	color:#555;
+	font-size:16px;
+}
+
+#navBar a:visited{
+    color:black;
+}
+
+#navBar a:hover{
+    color : yellow;
+}
+
+
+
+#navBar {
+	background-color: goldenrod;
+	width: 100%;
+    height:100%;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom:10px;
+	margin-bottom: 30px;
+	margin-top: 10px;
+}
+
+body {
+	background-color:whitesmoke;
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#main-header h1{
+	text-align: left;
+	color : #333;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 32px;
+}
+
+footer{
+	text-align: center;
+	color:#555;
+	margin-top: 100px;
+	width: 100%;
+    height:100%;
+	background:black;
+	font-size: 18px;
+	padding: 5px;
+	font-family: 'Courier New', Courier, monospace;
+}
+
+#main-header{
+	background-color: white;
+	padding:3px;
+}
+
+#the-main h2
+{
+	font-family : 'Times New Roman', Times, serif;
+	color:rgb(245, 245, 245);
+}
+
+#founders a{
+	color:#333;
+	text-decoration: none;
+}
+
+#founders a:visited{
+	color:#555;
+}
+
+#founders a:hover{
+	color : gold;
+}
+
+#the-main {
+	background:#555;
+	padding:20px;
+	color:whitesmoke;
+}
+#the-main:hover{
+	color: gold;
+	
+}
+
+
+#founders h2
+{
+	color: darkblue;
+	font-family: 'Times New Roman', Times, serif;
+}
+
+#founders
+{
+	padding:20px;
+}
