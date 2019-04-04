@@ -38,6 +38,7 @@
 }
 
 body {
+	background:lightblue;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100%;
@@ -57,7 +58,6 @@ footer{
 
 #main-header
 {
-	background: url("../_site_pages/images/background.png");
 	background-repeat: no-repeat;
 	background-size: 100%;
 	padding:10px;
