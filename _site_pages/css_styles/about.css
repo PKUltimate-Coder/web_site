@@ -1,5 +1,7 @@
 body {
-	background-color:whitesmoke;
+	background-image: url("../images/_background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 	font-family: 'Times New Roman', Times, serif;
 
 }
@@ -35,7 +37,6 @@ body {
 
 #navBar a:visited{
     color:black;
-    text-decoration:underline;
 }
 
 #navBar a:hover{
@@ -54,12 +55,13 @@ footer{
 }
 
 #main-header{
-	background-color: white;
 	padding:3px;
 }
 
 #main-header h1{
 	color: blue;
+	font-size: 36px;
+	font-family: 'Times New Roman', Times, serif;
 }
 
 #about 
@@ -71,11 +73,11 @@ footer{
 #vision
 {
 	color : black;
-	padding: 10px;
+	padding: 20px;
 }
 
 #mission
 {
-	color : #555;
-	padding:10px;
+	color : royalblue;
+	padding:20px;
 }

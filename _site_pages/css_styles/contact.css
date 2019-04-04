@@ -18,7 +18,6 @@
 
 #navBar a:visited{
     color:black;
-    text-decoration:underline;
 }
 
 #navBar a:hover{
@@ -39,7 +38,9 @@
 }
 
 body {
-    background-color: whitesmoke;
+    background-image: url("../images/_background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
 
 footer{
