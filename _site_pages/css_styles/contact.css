@@ -38,9 +38,10 @@
 }
 
 body {
-    background-image: url("../images/_background.jpg");
+    background :red;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
+	background-size: 100%;
 }
 
 footer{
@@ -58,6 +59,7 @@ footer{
 #main-header{
 	background-image: url("../images/_background.jpg");
 	background-repeat: no-repeat;
+	background-size: 100%;
 	padding:10px;
 }
 
