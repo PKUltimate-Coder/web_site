@@ -39,6 +39,7 @@
 
 body {
 	background:lightblue;
+	color : #333;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-size: 100%;
