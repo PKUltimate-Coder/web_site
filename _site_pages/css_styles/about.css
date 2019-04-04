@@ -1,10 +1,6 @@
-body {
-	background-image: url("../images/_background.jpg");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	font-family: 'Times New Roman', Times, serif;
 
-}
+
+
 
 #navBar {
 	background-color: goldenrod;
@@ -43,6 +39,12 @@ body {
     color : yellow;
 }
 
+body {
+	background-image: url("../images/_background.jpg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: 'Times New Roman', Times, serif;
+}
 
 footer{
 	text-align: center;
@@ -55,6 +57,7 @@ footer{
 }
 
 #main-header{
+	background-image: url("../images/_background.jpg");
 	padding:3px;
 }
 
