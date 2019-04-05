@@ -1,6 +1,5 @@
 #navBar li{
 	display: inline;
-	font-size: 16px;
 	font-family: Georgia, 'Times New Roman', Times, serif;
 	margin-right: 10px;
 	
@@ -12,8 +11,8 @@
 
 #navBar a{
 	text-decoration: none;
-	color:#555;
-	font-size:16px;
+	color:#fff;
+	font-size:20px;
 }
 
 #navBar a:visited{
@@ -35,45 +34,49 @@
 	padding-bottom:10px;
 	margin-bottom: 30px;
 	margin-top: 10px;
-	background-attachment: fixed;
+	position : relative;
 }
 
 body {
-	background-image: url("../images/_background.png");
-	background-repeat: no-repeat;
-	background-attachment: fixed;
-	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+	font-family: Arial, Helvetica, sans-serif;
+	height: 100%;
+	margin : auto;
+	padding: 0;
+	background-image: url("../images/_background.jpg");
+	background-size : cover;
+	background-position : center;
+	background-blend-mode: lighten;
 }
 
 #main-header h1{
 	text-align: left;
-	color : whitesmoke;
+	color : royalblue;
 	font-family: Arial, Helvetica, sans-serif;
 	font-size: 32px;
+	margin-left : 20px;
 }
 
 footer{
 	text-align: center;
-	color:#555;
+	color:#888;
 	margin-top: 100px;
 	width: 100%;
     height:100%;
 	background:black;
-	font-size: 18px;
+	font-size: 26px;
 	padding: 5px;
-	font-family: 'Courier New', Courier, monospace;
+	font-family: 'Times New Roman', Times, serif;
 }
 
 #main-header{
-	background-image: url("../images/_background.jpg");
-	background-repeat: no-repeat;
-	background-size: 100%;
+	width:100%;
+	height: 100%;
 	padding:3px;
 }
 
 #the-main h2
 {
-	font-family : 'Times New Roman', Times, serif;
+	font-family : Arial, Helvetica, sans-serif;
 	color:rgb(245, 245, 245);
 	font-size: 36px;
 }
@@ -96,6 +99,7 @@ footer{
 	background:#123;
 	padding:24px;
 	color:whitesmoke;
+	font-size: 17px;
 }
 #the-main:hover{
 	color: gold;
@@ -105,12 +109,16 @@ footer{
 
 #founders h2
 {
-	color: whitesmoke;
+	color: royalblue;
 	font-size : 36px;
-	font-family: 'Times New Roman', Times, serif;
+	font-family: Arial, Helvetica, sans-serif;
 }
 
 #founders
 {
 	padding:20px;
+}
+#founder{
+	font-size : 26px;
+	color : royalblue;
 }
