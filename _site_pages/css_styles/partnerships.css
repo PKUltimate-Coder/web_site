@@ -57,11 +57,14 @@ footer{
 }
 
 #main-header{
-	padding:20px;
+	padding:3px;
 }
 
 #main-header h1{
 	color:royalblue;
+	font-size: 36px;
+	font-family: Arial, Helvetica, sans-serif;
+	margin-left : 20px;
 }
 
 #partners
